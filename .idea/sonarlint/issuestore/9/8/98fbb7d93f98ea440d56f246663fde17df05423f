@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕÅ¹ëÿÿÿÿÿ8–¯ŒÆ©2J$09781ff5-7dc3-43b7-80a5-1486f24c2a8b
+Š
+java:S1126	"BReplace this if-then-else statement by a single method invocation.(ÉÕ·Ôùÿÿÿÿ8¬Æ©2J$77b14366-1e1b-4cc4-9a02-2dc2897a7d08
+r	java:S106
+"+Replace this use of System.out by a logger.(ı·‡‘øÿÿÿÿ8±Æ©2J$04438401-d822-46dc-b92e-eea1a0222892
+r	java:S106"+Replace this use of System.out by a logger.(ûãÁùùÿÿÿÿ8±Æ©2J$b32141e8-9281-45ef-90c7-25e45ea0ad1f
+Š
+java:S1126"BReplace this if-then-else statement by a single method invocation.(½ä›Èÿÿÿÿÿ8ÑĞÆ©2J$b6026aff-2369-41da-ad53-5a170c317710
+r	java:S106"+Replace this use of System.out by a logger.(ı·‡‘øÿÿÿÿ8ÑĞÆ©2J$5f4c27fd-9f5c-4756-9f4a-0fbffc3c9330
+r	java:S106"+Replace this use of System.out by a logger.(ûãÁùùÿÿÿÿ8ÑĞÆ©2J$74300262-e704-4fb4-bf1f-700040d7bd06
+r	java:S106"+Replace this use of System.out by a logger.(ñÓ÷ïûÿÿÿÿ8äÕ“Æ©2J$bfc40b31-adbf-4f26-af74-48ed973c9795

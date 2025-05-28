@@ -1,0 +1,14 @@
+
+_
+java:S16439"Use a StringBuilder instead.(ş¶â¯8ÑÁËñ©2J$0e656f5a-8422-4974-81bd-12e44a196d68
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üˆ…ÿÿÿÿÿ8ÒÁËñ©2J$eab8b6c7-5888-4b13-b45c-c0a94edc078c
+r	java:S106	"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8ÛÁËñ©2J$612a24b9-0d6c-45ff-a259-a30c84c77bda
+m	java:S106"+Replace this use of System.out by a logger.(ıÛÎê8ÛÁËñ©2J$33c6c96b-015d-4300-b49c-69a77510b3fc
+r	java:S106"+Replace this use of System.out by a logger.(ŞşÜ´ùÿÿÿÿ8ÜÁËñ©2J$7b177c42-784a-4c8e-afff-139631427e1e
+r	java:S106"+Replace this use of System.out by a logger.(˜Š¿Ûüÿÿÿÿ8İÁËñ©2J$3a7413a8-6fc0-4f3a-83d4-431626a16429
+r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ŞÁËñ©2J$cc5b7944-bc2f-4908-8283-60700729311a
+m	java:S106"+Replace this use of System.out by a logger.(¡“ş•8ßÁËñ©2J$19804838-4378-4f90-9975-bf3639abdab6
+r	java:S106"+Replace this use of System.out by a logger.(›—§Çøÿÿÿÿ8ßÁËñ©2J$39c25ef2-e8d9-4433-a431-2ae630938ac7
+m	java:S106&"+Replace this use of System.out by a logger.(ƒ´¥ä8µÕÌñ©2J$269e98a6-416f-4566-a18b-90f2672ffb90
+r	java:S1061"+Replace this use of System.out by a logger.(ô´€úÿÿÿÿ8¯ Íñ©2J$ca59a2d4-32b4-424d-b56e-e1e6861d4040
+r	java:S1063"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¯ Íñ©2J$4b79f1c3-7d16-4998-a1db-8e7858baecdb

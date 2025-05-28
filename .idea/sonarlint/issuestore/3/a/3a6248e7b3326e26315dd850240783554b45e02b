@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïşê8ÉÇ©2J$6e8a68fe-a604-4143-aaca-b528a48f2103
+m	java:S106"+Replace this use of System.out by a logger.(€óØÉ8…ÉÇ©2J$1e4fae4d-c56d-495d-8e29-3d2a8e1921ee
+r	java:S106"+Replace this use of System.out by a logger.(Š‘¨†üÿÿÿÿ8…ÉÇ©2J$25850871-42d0-4144-a4d8-03f77f610662
+r	java:S106"+Replace this use of System.out by a logger.(Ïíõšûÿÿÿÿ8…ÉÇ©2J$fc3df1e2-0a1e-4cdf-89d6-42979abaad3a
+r	java:S106"+Replace this use of System.out by a logger.(ŞŸ¨ûÿÿÿÿ8…ÉÇ©2J$54ad6601-9497-4efc-a8ea-a91d355f481b
+m	java:S106"+Replace this use of System.out by a logger.(ó™–8†ÉÇ©2J$2b70ce85-49f8-4623-9bd7-02fdd7c0b924
+m	java:S106"+Replace this use of System.out by a logger.(ä³Ç¹8¶€ÎÇ©2J$b2864b70-ef88-4732-b3c6-7a70ee517b4a
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8†ÉÇ©2J$1bfb0802-2f38-44e0-b67b-89de5c86a5df
